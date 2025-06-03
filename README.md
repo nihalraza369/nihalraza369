@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hi, I'm Nihal Raza
 
-<!--
-**nihalraza369/nihalraza369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 Full Stack Developer | AI Agent Builder
+- 🛠️ Skilled in: Python, FastAPI, LangChain, LangGraph, CrewAI, OpenAI SDK
+- 📍 Based in Karachi | Exploring Generative AI
+- 💼 Looking for Full Stack / AI Agent SDK roles
+- 📫 Contact: nihalraza369@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+#### 📊 GitHub Stats
+![Nihal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihalraza369&show_icons=true&theme=radical)
